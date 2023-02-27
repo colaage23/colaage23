@@ -1,4 +1,4 @@
-### Hi there 👋
+### 프로젝트 이미지 클릭시 해당 프로젝트로 이동합니다
 
 <!--
 **colaage23/colaage23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn00)](https://github.com/kdn00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colaage23)](https://github.com/colaage23/github-readme-stats)
